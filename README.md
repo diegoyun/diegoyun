@@ -1,4 +1,4 @@
-## Olá! meu nome é Diego Almeida 👋
+## Olá! me chamo Diego Almeida 👋
  - 🔭 Estou trabalhando em projetos da faculdade 
 - 🌱 cursando Analise e desenvolvimento de sistemas 
 - 📫 Contate-me pelo email: diegoyun22@gmail.com
