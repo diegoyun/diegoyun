@@ -1,5 +1,5 @@
 ## Olá! me chamo Diego Almeida 👋
- - 🔭 Estou trabalhando em projetos da faculdade 
+ - 🔭 Estou trabalhando em projetos pessoais e da faculdade 
 - 🌱 Cursando Analise e desenvolvimento de sistemas 
 
 <div align="center">
