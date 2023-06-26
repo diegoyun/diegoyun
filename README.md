@@ -1,7 +1,6 @@
 ## Olá! me chamo Diego Almeida 👋
  - 🔭 Estou trabalhando em projetos da faculdade 
-- 🌱 cursando Analise e desenvolvimento de sistemas 
-- 📫 Contate-me pelo email: diegoyun22@gmail.com
+- 🌱 Cursando Analise e desenvolvimento de sistemas 
 
 <div align="center">
   <a href="https://github.com/diegoyun">
